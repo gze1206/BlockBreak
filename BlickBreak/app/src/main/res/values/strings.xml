@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BlockBreak</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_clear">ClearActivity</string>
+    <string name="game_start">Game start!</string>
+    <string name="clear">Clear!</string>
+    <string name="game_over">Game over</string>
+    <string name="block_count">Block :%d</string>
+    <string name="time">Time:%1$d.%2$d</string>
+</resources>
